@@ -45,7 +45,7 @@ Always contact the fundraiser or the contact person before donating.
 <tbody>
 <!-- ------------ Lifeline Foundation ------------ -->
   <tr>
-    <td class="tg-0pky">Bangalore, <br/>Karnataka<br></td>
+    <td class="tg-0pky"><strong>Bangalore</strong>, <br/>Karnataka<br></td>
     <td class="tg-0pky">Underserved Areas</td>
     <td class="tg-0pky"><a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a> has been helping the society since many years in Bangalore and areas around it. During this time, the team is helping families with food/ration kits too.<br/> The ration kit that TLF has been distributing, has:<br/>
     - 5kg Rice <br/>
@@ -57,12 +57,12 @@ Always contact the fundraiser or the contact person before donating.
     <td class="tg-0pky">Mohammad Shafi, <br/>
     Ali Shariff<br/>
     (<a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a>)</td>
-    <td class="tg-0pky"><a href="mailto:shafi2all@gmail.com" target="_blank" rel="noopener noreferrer" onClick="_gaq.push([‘_trackEvent’, ‘ContactClicked’, ‘Click’, ‘Mohammad Shafi BLR’, ‘0’]);">Mohammad Shafi</a><br/>(Email)</td>
+    <td class="tg-0pky"><strong><a href="mailto:shafi2all@gmail.com" target="_blank" rel="noopener noreferrer" onClick="_gaq.push([‘_trackEvent’, ‘ContactClicked’, ‘Click’, ‘Mohammad Shafi BLR’, ‘0’]);">Mohammad Shafi</a></strong><br/>(Email)</td>
   </tr>
   
 <!-- ------------ Salman Ahmad ------------ -->
   <tr>
-    <td class="tg-0pky">Pratapgarh, <br/> Uttar Pradesh (UP)</td>
+    <td class="tg-0pky"><strong>Pratapgarh</strong>, <br/> Uttar Pradesh (UP)</td>
     <td class="tg-0pky">Whole city</td>
     <td class="tg-0pky">A team of local volunteers is helping poor families with ration kits, which help them survive for ~5 days. The ration kit contains: <br/>
     - 3kg Rice <br/>
@@ -72,9 +72,9 @@ Always contact the fundraiser or the contact person before donating.
     - 250ml Cooking Oil <br/>
     - 1kg Rava/Sooji <br/><br/>
 
-    Cost of one kit: around <strong>INR 400</strong> approx. </td></td>
+    Cost of one kit: around <strong>INR 400</strong> approx. </td>
     <td class="tg-0pky">Salman Ahmad, Adnan Sharafat, Faiz, Aquib</td>
-    <td class="tg-0pky">Salman Ahmad :<br/> <a href="tel://+91-9792-800-002" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Salman Ahmed PBH’, 0)">+91-9792-800-002</a></td>
+    <td class="tg-0pky"><strong>Salman Ahmad</strong> :<br/> <a href="tel://+91-9792-800-002" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Salman Ahmed PBH’, 0)">+91-9792-800-002</a></td>
   </tr>
   <!--<tr>
     <td class="tg-0pky"></td>
