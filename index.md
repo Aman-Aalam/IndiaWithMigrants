@@ -62,7 +62,7 @@ Always contact the fundraiser or the contact person before donating.
   <tr>
     <td class="tg-0pky">Pratapgarh, <br/> Uttar Pradesh (UP)</td>
     <td class="tg-0pky">Whole city</td>
-    <td class="tg-0pky">A team of local volunteers is helping poor families with ration kits, which helps them survive for ~5 days. The ration kit contains: <br/>
+    <td class="tg-0pky">A team of local volunteers is helping poor families with ration kits, which help them survive for ~5 days. The ration kit contains: <br/>
     - 3kg Rice <br/>
     - 3kg Wheat <br/>
     - 1kg Sugar <br/>
@@ -71,7 +71,7 @@ Always contact the fundraiser or the contact person before donating.
     - 1kg Rava/Sooji <br/>
 
     Cost of one kit: around <strong>INR 400</strong> approx. </td></td>
-    <td class="tg-0pky">Salman Ahmad, Adnan Ahmad, Faiz, Aquib</td>
+    <td class="tg-0pky">Salman Ahmad, Adnan Sharafat, Faiz, Aquib</td>
     <td class="tg-0pky">Salman Ahmad :<br/> <a href="tel://+91-9792-800-002">+91-9792-800-002</a></td>
   </tr>
   <!--<tr>
