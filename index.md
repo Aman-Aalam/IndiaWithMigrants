@@ -1,3 +1,6 @@
+---
+image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png
+---
 ## Help stranded migrant labourers with food and support
 
 The safety net of our migrant labourers has basically collapsed, and many are walking hundreds of kilometers 
