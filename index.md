@@ -57,8 +57,10 @@ Always contact the fundraiser or the contact person before donating.
     <td class="tg-0pky">Mohammad Shafi, <br/>
     Ali Shariff<br/>
     (<a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a>)</td>
-    <td class="tg-0pky"><a href="mailto:https://www.example.com/" target="_blank" rel="noopener noreferrer">Mohammad Shafi</a><br/>(Email)</td>
+    <td class="tg-0pky"><a href="mailto:shafi2all@gmail.com" target="_blank" rel="noopener noreferrer" onClick="_gaq.push([‘_trackEvent’, ‘ContactClicked’, ‘Click’, ‘Mohammad Shafi’, ‘0’]);">Mohammad Shafi</a><br/>(Email)</td>
   </tr>
+  
+<!-- ------------ Salman Ahmad ------------ -->
   <tr>
     <td class="tg-0pky">Pratapgarh, <br/> Uttar Pradesh (UP)</td>
     <td class="tg-0pky">Whole city</td>
@@ -68,7 +70,7 @@ Always contact the fundraiser or the contact person before donating.
     - 1kg Sugar <br/>
     - 1kg Daal/Lentils/Pulses <br/>
     - 250ml Cooking Oil <br/>
-    - 1kg Rava/Sooji <br/>
+    - 1kg Rava/Sooji <br/><br/>
 
     Cost of one kit: around <strong>INR 400</strong> approx. </td></td>
     <td class="tg-0pky">Salman Ahmad, Adnan Sharafat, Faiz, Aquib</td>
