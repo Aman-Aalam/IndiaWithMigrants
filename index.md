@@ -57,7 +57,7 @@ Always contact the fundraiser or the contact person before donating.
     <td class="tg-0pky">Mohammad Shafi, <br/>
     Ali Shariff<br/>
     (<a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a>)</td>
-    <td class="tg-0pky"><a href="mailto:shafi2all@gmail.com" target="_blank" rel="noopener noreferrer" onClick="_gaq.push([‘_trackEvent’, ‘ContactClicked’, ‘Click’, ‘Mohammad Shafi’, ‘0’]);">Mohammad Shafi</a><br/>(Email)</td>
+    <td class="tg-0pky"><a href="mailto:shafi2all@gmail.com" target="_blank" rel="noopener noreferrer" onClick="_gaq.push([‘_trackEvent’, ‘ContactClicked’, ‘Click’, ‘Mohammad Shafi BLR’, ‘0’]);">Mohammad Shafi</a><br/>(Email)</td>
   </tr>
   
 <!-- ------------ Salman Ahmad ------------ -->
@@ -74,7 +74,7 @@ Always contact the fundraiser or the contact person before donating.
 
     Cost of one kit: around <strong>INR 400</strong> approx. </td></td>
     <td class="tg-0pky">Salman Ahmad, Adnan Sharafat, Faiz, Aquib</td>
-    <td class="tg-0pky">Salman Ahmad :<br/> <a href="tel://+91-9792-800-002">+91-9792-800-002</a></td>
+    <td class="tg-0pky">Salman Ahmad :<br/> <a href="tel://+91-9792-800-002" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Salman Ahmed PBH’, 0)">+91-9792-800-002</a></td>
   </tr>
   <!--<tr>
     <td class="tg-0pky"></td>
