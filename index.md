@@ -45,8 +45,8 @@ Always contact the fundraiser or the contact person before donating.
 <tbody>
 <!-- ------------ Lifeline Foundation ------------ -->
   <tr>
-    <td class="tg-0pky">Bangalore<br></td>
-    <td class="tg-0pky">Whole city</td>
+    <td class="tg-0pky">Bangalore, <br/>Karnataka<br></td>
+    <td class="tg-0pky">Underserved Areas</td>
     <td class="tg-0pky"><a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a> has been helping the society since many years in Bangalore and areas around it. During this time, the team is helping families with food/ration kits too.<br/> The ration kit that TLF has been distributing, has:<br/>
     - 5kg Rice <br/>
     - 5kg Wheat <br/>
@@ -59,14 +59,22 @@ Always contact the fundraiser or the contact person before donating.
     (<a href="https://www.lifelinetrust.in/" target="_blank" rel="noopener noreferrer">The Lifeline Foundation Trust</a>)</td>
     <td class="tg-0pky"><a href="mailto:https://www.example.com/" target="_blank" rel="noopener noreferrer">Mohammad Shafi</a><br/>(Email)</td>
   </tr>
-  <!--<tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
   <tr>
+    <td class="tg-0pky">Pratapgarh, <br/> Uttar Pradesh (UP)</td>
+    <td class="tg-0pky">Whole city</td>
+    <td class="tg-0pky">A team of local volunteers is helping poor families with ration kits, which helps them survive for ~5 days. The ration kit contains: <br/>
+    - 3kg Rice <br/>
+    - 3kg Wheat <br/>
+    - 1kg Sugar <br/>
+    - 1kg Daal/Lentils/Pulses <br/>
+    - 250ml Cooking Oil <br/>
+    - 1kg Rava/Sooji <br/>
+
+    Cost of one kit: around <strong>INR 400</strong> approx. </td></td>
+    <td class="tg-0pky">Salman Ahmad, Adnan Ahmad, Faiz, Aquib</td>
+    <td class="tg-0pky">Salman Ahmad :<br/> <a href="tel://+91-9792-800-002">+91-9792-800-002</a></td>
+  </tr>
+  <!--<tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
