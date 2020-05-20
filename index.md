@@ -76,12 +76,28 @@ Always contact the fundraiser or the contact person before donating.
     <td class="tg-0pky">Salman Ahmad, Adnan Sharafat, Faiz, Aquib</td>
     <td class="tg-0pky"><strong>Salman Ahmad</strong> :<br/> <a href="tel://+91-9792-800-002" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Salman Ahmed PBH’, 0)">+91-9792-800-002</a></td>
   </tr>
-  <!--<tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>-->
+<!-- ------------ Zara Salati ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Mumbai</strong>, <br/> Maharashtra</td>
+    <td class="tg-0pky">Jogeshwari, Andheri, Goregaon</td>
+    <td class="tg-0pky">A team of local volunteers is helping poor families with ration kits, which help them survive for ~8-10 days.<br/>
+    The needs of the families are personally verified.<br/><br/>
+    The ration kit contains: <br/>
+    - 5kg Rice <br/>
+    - 5kg Wheat <br/>
+    - 1kg Sugar <br/>
+    - 0.5kg Toor Daal <br/>
+    - 0.5kg Masoor Daal <br/>
+    - 1ltr Cooking Oil <br/>
+    - 250gms Tea powder <br/>
+    - 25gms Haldi powder <br/>
+    - 25gms Mirchi powder <br/>
+    - 100gms Jeera powder <br/>
+    - 1kg Salt <br/><br/>
+
+    Cost of one kit: around <strong>INR 800</strong> approx. </td>
+    <td class="tg-0pky">Zara Salati</td>
+    <td class="tg-0pky"><strong><a href="https://twitter.com/ZaraSalati" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Zara Salati BOM’, 0)">Zara Salati</a></strong><br/>(Twitter)</td>
+  </tr>
 </tbody>
 </table>
