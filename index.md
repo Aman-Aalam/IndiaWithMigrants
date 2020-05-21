@@ -104,7 +104,7 @@ Always contact the fundraiser or the contact person before donating.
   </tr>
   <!-- ------------ Kashmir Box ------------ -->
   <tr>
-    <td class="tg-0pky"><strong>Kashmir</strong><br/>*Awaiting Confirmation</td>
+    <td class="tg-0pky"><strong>Kashmir</strong></td>
     <td class="tg-0pky">Multiple Cities/Locations</td>
     <td class="tg-0pky">KashmirBox.com, an online Kashmir speciality store, is running a program called Rehmet-e-Ramadan, in which you can buy pre-packaged goods which help a family of 4, for 2/4/6/8 weeks, with food and other supplies.<br/><br/>
     From the site, you can buy the kits and KashmirBox will deliver it to deserving familites<br/><br/>
@@ -129,7 +129,9 @@ Always contact the fundraiser or the contact person before donating.
     - 4Packs Sanitary Napkin<br/><br/>
 
     Cost of one kit for 2 weeks: <strong>INR 1,376</strong><br/><br/>
-    Check contact link for more details. </td>
+	The delivery is done by credible, local partner non profits.<br/><br/>
+	
+	Check contact link for more details. </td>
     <td class="tg-0pky">Team Kashmir Box</td>
     <td class="tg-0pky"><strong><a href="https://www.kashmirbox.com/collections/kashmir-covid-relief/products/survival-grocery-kit" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Kashmir Box KASH’, 0)">Kashmir Box Product Page</a></strong><br/>(KashmirBox eCommerce Site)</td>
   </tr>
