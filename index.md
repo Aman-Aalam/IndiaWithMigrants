@@ -93,14 +93,45 @@ Always contact the fundraiser or the contact person before donating.
     - 0.5kg Masoor Daal <br/>
     - 1ltr Cooking Oil <br/>
     - 250gms Tea powder <br/>
-    - 25gms Haldi powder <br/>
-    - 25gms Mirchi powder <br/>
+    - 250gms Haldi powder <br/>
+    - 250gms Mirchi powder <br/>
     - 100gms Jeera powder <br/>
     - 1kg Salt <br/><br/>
 
     Cost of one kit: around <strong>INR 800</strong> approx. </td>
     <td class="tg-0pky">Zara Salati</td>
     <td class="tg-0pky"><strong><a href="https://twitter.com/ZaraSalati" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Zara Salati BOM’, 0)">Zara Salati</a></strong><br/>(Twitter)</td>
+  </tr>
+  <!-- ------------ Kashmir Box ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Kashmir</strong><br/>*Awaiting Confirmation</td>
+    <td class="tg-0pky">Multiple Cities/Locations</td>
+    <td class="tg-0pky">KashmirBox.com, an online Kashmir speciality store, is running a program called Rehmet-e-Ramadan, in which you can buy pre-packaged goods which help a family of 4, for 2/4/6/8 weeks, with food and other supplies.<br/><br/>
+    From the site, you can buy the kits and KashmirBox will deliver it to deserving familites<br/><br/>
+    You can buy 4 different kits, which can last for 2, 4, 6, or 8 weeks for a family of 4. <br/> <br/>
+    The kit for 2 weeks contains: <br/>
+    - 8kg Rice <br/>
+    - 5kg Wheat <br/>
+    - 1kg Sugar <br/>
+    - 250gms Namkeen Tea<br/>
+    - 2kg Daal/Lentils <br/>
+    - 500gms Milk Powder <br/>
+    - 2ltr Cooking Oil <br/>
+    - 100gms Lipton Tea powder <br/>
+    - 250gms Haldi powder <br/>
+    - 250gms Red Chilli powder <br/>
+    - 100gms Jeera powder <br/>
+    - 1kg Salt <br/><br/>
+    - 125gms Basil Seeds<br/>
+    - 1Pc handwash Soap<br/>
+    - 1Pc Laundary Soap<br/>
+    - 1Pc Dish Wash Soap<br/>
+    - 4Packs Sanitary Napkin<br/><br/>
+
+    Cost of one kit for 2 weeks: <strong>INR 1,376</strong><br/><br/>
+    Check contact link for more details. </td>
+    <td class="tg-0pky">Team Kashmir Box</td>
+    <td class="tg-0pky"><strong><a href="https://www.kashmirbox.com/collections/kashmir-covid-relief/products/survival-grocery-kit" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Kashmir Box KASH’, 0)">Kashmir Box Product Page</a></strong><br/>(KashmirBox eCommerce Site)</td>
   </tr>
 </tbody>
 </table>
