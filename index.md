@@ -4,9 +4,9 @@ image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/as
 ## Help stranded migrant labourers with food and support
 
 The safety net of our migrant labourers has basically collapsed, and many are walking hundreds of kilometers 
-back to their homes, in the hope of finding at least food to eat back home. 
+back to their homes, in the hope of finding at least food to eat back at home. 
 
-These migrants are poor labourers who earn on daily wage, and have very little to no savings at all.
+These migrants are poor labourers who earn a daily wage, and have very little to no savings at all.
 
 During this time, common Indians from all walks of life have come up for the help of these labours who build our 
 cities, feed our kids, and shape our economy. This website is a humble effort to honour
