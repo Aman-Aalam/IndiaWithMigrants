@@ -1,5 +1,5 @@
 ---
-image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png
+image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png?1
 ---
 ## Help stranded migrant labourers with food and support
 

@@ -8,7 +8,7 @@ common Indians from all walks of life have come up for the help of these laboure
 website is to collect their efforts, in a public record.
 If you want to help or fund their efforts, please contact them with the link given in the 
 table below."
-image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png
+image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png?1
 
 show_downloads: false
 google_analytics: UA-167217482-1
@@ -17,7 +17,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png
+      image: https://raw.githubusercontent.com/Sheikh-Aman/IndiaWithMigrants/master/assets/img/social_preview.png?1
 
 twitter:
   username: AmanAlam
