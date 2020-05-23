@@ -255,5 +255,49 @@ Always contact the fundraiser or the contact person before donating.
         </strong><br/>
     </td>
   </tr>
+  <!-- ------------ Hina KHan, Saharanpur ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Saharanpur</strong>,<br/>Uttar Pradesh (UP)<br/><br/>
+        <u>Areas:</u><br/>
+        Whole city
+    </td>
+    <td class="tg-0pky">
+        A team of local volunteers is helping poor families with ration kits, which helps them survive for 8-10 days. The ration kit contains: <br/>
+        - 5kgs Flour<br/>
+        - 5kgs Rice<br/>
+        - 1packet Salt<br/>
+        - 100grams Red chilli powder<br/>
+        - 50grams Turmeric<br/>
+        - 100grams Coriander powder<br/>
+        - 2kgs Sugar<br/>
+        - 250gms Tea<br/>
+        - 2ltrs Oil<br/>
+        - Pulses :
+        <ul>
+            <li>1/2kg Masoor daal</li>
+            <li>1/2kg Arhar daal</li>
+            <li>1/2kg Chholay</li>
+        </ul>
+        - 2.5kgs Potato<br/>
+        - 2kgs Onion<br/>
+        - 100grams Garlic<br/>
+        - 1bar Bathing soap- 1bar<br/>
+        - 1Pc Detergent bar<br/><br/>
+
+        Cost of one kit: <strong>INR 1,000</strong>
+
+        <br/><br/>
+        <u><strong>Team Members:</strong></u><br/>
+        Heena Khan <br/>
+    </td>
+    <td class="tg-0pky">
+        <strong>
+        Heena Khan
+            <a href="tel://+918429096478" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,Heena Khan Saharanpur’, 0)">
+                +91-8429-096-478
+            </a>
+        </strong><br/>
+    </td>
+  </tr>
 </tbody>
 </table>
