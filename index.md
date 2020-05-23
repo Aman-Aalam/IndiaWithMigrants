@@ -135,5 +135,99 @@ Always contact the fundraiser or the contact person before donating.
     <td class="tg-0pky">Team Kashmir Box</td>
     <td class="tg-0pky"><strong><a href="https://www.kashmirbox.com/collections/kashmir-covid-relief/products/survival-grocery-kit" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Kashmir Box KASH’, 0)">Kashmir Box Product Page</a></strong><br/>(KashmirBox eCommerce Site)</td>
   </tr>
+  <!-- ------------ Syed Suhail Sahab, Bhopal ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Bhopal</strong>,<br/>Madhya Pradesh (MP)</td>
+    <td class="tg-0pky">Mostly on Bhopal highway</td>
+    <td class="tg-0pky">
+        Share 'n' Care social welfare society in Bhopal has been helping the migrant labourers
+        on the Bhopal highway for many days. They are encountering the labourers in busses and trucks (less frequently in trucks and are helping them with some food, water, sherbet, pain medicines and ointment, slippers and footwear, Odomos and mosquito repellants and other first aid material as well.<br/><br/>
+        The foundation is pulling emergency measures throughout the day and night to make sure the
+        poor workers are helped as much as possible.<br/><br/>
+
+        The foundation doesn nott have a ready estimate for how much money they need for their daily relief operations, but please <strong>contact the convenor Mr. Suhail, and help with whatever you can</strong> <br/><br/>
+
+        Pictures of their work are in the works of getting uploaded, please check back soon.<br/>
+    </td>
+    <td class="tg-0pky">Team Share 'n' Care Social Welfare Foundation</td>
+    <td class="tg-0pky">
+        <strong>
+            Syed Suhail Hasan
+        </strong><br/>
+        <a href="tel://+919425649001" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Syed Suhail BHOPAL’, 0)">
+            +91-9425-649-001
+        </a><br/>
+    </td>
+  </tr>
+  <!-- ------------ Imran Khan, Lucknow ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Lucknow</strong>,<br/>Uttar Pradesh (UP)</td>
+    <td class="tg-0pky">Lucknow Faizabad highway</td>
+    <td class="tg-0pky">
+        A group of volunteers is feeding people in need on Lucknow Faizabad highway, in Lucknow. So far, they have used around 6000 food packets, water, fruits, and necessary necessary medicines.<br/><br/>
+        The volunteers are also arranging for dry ration for people in need across Lucknow. <br/> <br/>
+
+        Cost for per day relief operations: <strong>~INR 30,000 to 50,000</strong><br/><br/>
+
+        <strong>NOTE: </strong>Any of my friends have yet to personally verify this.<br/>
+    </td>
+    <td class="tg-0pky">Imran Khan, Wakeel Ahmad, Adil, Azhar, Mohd. Imran, Qudrat Ulla, Salman, Mohd Adil, Hamza, Naushad, Sageer, Shafqat, Bobby, Afzal, Anas, Nabeel</td>
+    <td class="tg-0pky">
+        <strong>
+            Imran Khan
+        </strong><br/>
+        <a href="tel://+919936189009" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Imran Khan LKO’, 0)">
+            +91-9936-189-009
+        </a><br/>
+    </td>
+  </tr>
+  <!-- ------------ Takbir, Hyderabad ------------ -->
+  <tr>
+    <td class="tg-0pky"><strong>Hyderabad</strong>,<br/>Telangana</td>
+    <td class="tg-0pky">Hyderabad city</td>
+    <td class="tg-0pky">
+        A design studio based out of Hyderabad, DesignAware.org, launched an online crowdfunding campaign in the form of a virtual lecture series that successfully raised over ₹1,00,000 in fees that were donated to different relief efforts, specifically to provide meals and rations to construction and migrant workers, and daily-wage workers. <br/> <br/>
+
+        The aims of the campaign, are : a) Raise awareness about design and remote learning, and b) Raise awareness about the plight of migrant workers and raise funds for relief. <br/><br/>
+
+        The funds raised are being donated to two volunteer organizations in Hyderabad that the firm knows, and has personally visited for checks/interaction. One of them is providing homecooked meals to migrant workers and the other is providing rations and cash to families in need, mostly of daily wage earners.<br/><br/>
+
+        The firm has also donated to 'Medicos del Mundo', that's working towards medical relief and treatment of COVID patients.<br/><br/>
+
+        Campaign coverage:<br/>
+        <ul>
+            <li>
+                <a href="https://www.stirworld.com/see-news-designaware-studio-s-road-less-traveled-lecture-series-raise-funds-for-covid-19" target="_blank" rel="noopener noreferrer">
+                    DesignAware studio’s 'Road Less Traveled' lecture series raise funds for COVID-19
+                </a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/watch?v=DH7gEk1_BOs" target="_blank" rel="noopener noreferrer">
+                    Video: Road Less Traveled Lecture Series
+                </a>
+            </li>
+        </ul>
+
+        To help them, you can buy tickets to their crowdfunding campaign, in which you'll get to attend lectures around Civil Architecture and Engineering, while the proceeds of the campaign will go to the poor workers in and around Hyderabad.<br/><br/>
+
+        Ticket Prices:<br/>
+        <ul>
+            <li>
+                From outside India : <strong>USD 20 onwards</strong>
+            </li>
+            <li>
+                From within India : <strong>INR 2,500</strong>
+            </li>
+        </ul>
+    </td>
+    <td class="tg-0pky">DesignAware Team</td>
+    <td class="tg-0pky">
+        <strong>
+            <a href="https://designaware.org/awareness/roadlesstraveled/" onClick="ga(‘send’,’event’,’ContactClicked’,’Click’,’Design Aware HYD’, 0)">
+                DesignAware Campaign
+            </a>
+        </strong><br/>
+    </td>
+  </tr>
 </tbody>
 </table>
